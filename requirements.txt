@@ -1,0 +1,7 @@
+streamlit
+pyttsx3
+vaderSentiment
+gtts
+requests
+transformers
+torch
